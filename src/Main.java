@@ -7,6 +7,5 @@ public class Main {
         char c5 = '\101';
         char c6 = '\t';
         char c7 = '\n';
-
     }
 }
